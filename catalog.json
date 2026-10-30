@@ -1,0 +1,162 @@
+[
+  {
+    "id": "p001", "sku": "AUD-HP-001", "title": "Aure Wireless Over-Ear Headphones",
+    "brand": "Aure", "category": "Audio",
+    "description": "Wireless over-ear headphones with 40-hour battery and fast charging.",
+    "price": 129.00, "currency": "USD", "stock": 42,
+    "attributes": {"connectivity": "Bluetooth 5.3", "battery_hours": 40, "weight_g": 285},
+    "variants": [
+      {"name": "Black", "sku": "AUD-HP-001-BLK", "price_delta": 0.0, "stock": 30},
+      {"name": "White", "sku": "AUD-HP-001-WHT", "price_delta": 0.0, "stock": 12}
+    ],
+    "weight_kg": 0.3, "returns": {"window_days": 30, "condition": "unused, original packaging"},
+    "rating": 4.6, "reviews": 318
+  },
+  {
+    "id": "p002", "sku": "AUD-SPK-002", "title": "Pulse Portable Bluetooth Speaker",
+    "brand": "Pulse", "category": "Audio",
+    "description": "Compact waterproof speaker with 12-hour playtime.",
+    "price": 59.99, "currency": "USD", "stock": 0,
+    "attributes": {"waterproof": "IPX7", "battery_hours": 12, "weight_g": 560},
+    "variants": [],
+    "weight_kg": 0.6, "returns": {"window_days": 30, "condition": "unused, original packaging"},
+    "rating": 4.3, "reviews": 142
+  },
+  {
+    "id": "p003", "sku": "AUD-EB-003", "title": "Nimbus Noise-Cancelling Earbuds",
+    "brand": "Nimbus", "category": "Audio",
+    "description": "In-ear earbuds with active noise cancellation and a charging case.",
+    "price": 89.00, "currency": "USD", "stock": 18,
+    "attributes": {"anc": true, "battery_hours": 8, "case_battery_hours": 24},
+    "variants": [],
+    "weight_kg": 0.05, "returns": {"window_days": 30, "condition": "unopened"},
+    "rating": 4.1, "reviews": 97
+  },
+  {
+    "id": "p004", "sku": "PER-KB-004", "title": "Keycraft Mechanical Keyboard",
+    "brand": "Keycraft", "category": "Peripherals",
+    "description": "Hot-swappable mechanical keyboard with RGB backlight.",
+    "price": 109.00, "currency": "USD", "stock": 30,
+    "attributes": {"layout": "TKL", "hotswap": true, "backlight": "RGB"},
+    "variants": [
+      {"name": "Blue switch", "sku": "PER-KB-004-BLU", "price_delta": 0.0, "stock": 11},
+      {"name": "Red switch", "sku": "PER-KB-004-RED", "price_delta": 0.0, "stock": 12},
+      {"name": "Brown switch", "sku": "PER-KB-004-BRN", "price_delta": 5.0, "stock": 7}
+    ],
+    "weight_kg": 1.1, "returns": {"window_days": 30, "condition": "unused"},
+    "rating": 4.7, "reviews": 256
+  },
+  {
+    "id": "p005", "sku": "PER-MS-005", "title": "Glide Wireless Mouse",
+    "brand": "Glide", "category": "Peripherals",
+    "description": "Ergonomic wireless mouse with silent clicks.",
+    "price": 39.00, "currency": "USD", "stock": 120,
+    "attributes": {"dpi": 3200, "silent": true, "connectivity": "2.4GHz + Bluetooth"},
+    "variants": [],
+    "weight_kg": 0.1, "returns": {"window_days": 30, "condition": "unused"},
+    "rating": 4.4, "reviews": 410
+  },
+  {
+    "id": "p006", "sku": "MON-27-006", "title": "ClearView 27-inch 4K Monitor",
+    "brand": "ClearView", "category": "Monitors",
+    "description": "27-inch 4K IPS monitor with USB-C 90W power delivery.",
+    "price": 329.00, "currency": "USD", "stock": 12,
+    "attributes": {"size_in": 27, "resolution": "3840x2160", "panel": "IPS", "usb_c_pd_w": 90},
+    "variants": [],
+    "weight_kg": 5.8, "returns": {"window_days": 14, "condition": "unused, original packaging"},
+    "rating": 4.5, "reviews": 88
+  },
+  {
+    "id": "p007", "sku": "MON-24-007", "title": "ClearView 24-inch FHD Monitor",
+    "brand": "ClearView", "category": "Monitors",
+    "description": "24-inch 1080p monitor with a 100Hz refresh rate.",
+    "price": 179.00, "currency": "USD", "stock": 25,
+    "attributes": {"size_in": 24, "resolution": "1920x1080", "refresh_hz": 100},
+    "variants": [],
+    "weight_kg": 3.9, "returns": {"window_days": 14, "condition": "unused, original packaging"},
+    "rating": 4.2, "reviews": 61
+  },
+  {
+    "id": "p008", "sku": "HO-DESK-008", "title": "DeskPro Electric Standing Desk",
+    "brand": "DeskPro", "category": "Home Office",
+    "description": "Height-adjustable electric standing desk with memory presets.",
+    "price": 399.00, "currency": "USD", "stock": 7,
+    "attributes": {"height_range_cm": "72-120", "presets": 4, "top_size_cm": "140x70"},
+    "variants": [
+      {"name": "Oak top", "sku": "HO-DESK-008-OAK", "price_delta": 0.0, "stock": 4},
+      {"name": "Walnut top", "sku": "HO-DESK-008-WAL", "price_delta": 20.0, "stock": 3}
+    ],
+    "weight_kg": 32.0, "returns": {"window_days": 14, "condition": "unused, original packaging"},
+    "rating": 4.6, "reviews": 54
+  },
+  {
+    "id": "p009", "sku": "HO-CHAIR-009", "title": "ErgoChair Mesh Office Chair",
+    "brand": "ErgoChair", "category": "Home Office",
+    "description": "Breathable mesh office chair with adjustable lumbar support.",
+    "price": 249.00, "currency": "USD", "stock": 15,
+    "attributes": {"max_load_kg": 130, "adjustable_lumbar": true, "armrests": "4D"},
+    "variants": [],
+    "weight_kg": 14.0, "returns": {"window_days": 30, "condition": "unused"},
+    "rating": 4.3, "reviews": 73
+  },
+  {
+    "id": "p010", "sku": "HO-LAMP-010", "title": "Lumen LED Desk Lamp",
+    "brand": "Lumen", "category": "Home Office",
+    "description": "Dimmable LED desk lamp with USB charging port.",
+    "price": 34.99, "currency": "USD", "stock": 60,
+    "attributes": {"color_temp": "2700-6500K", "usb_port": true, "dimmable": true},
+    "variants": [],
+    "weight_kg": 0.8, "returns": {"window_days": 30, "condition": "unused"},
+    "rating": 4.5, "reviews": 129
+  },
+  {
+    "id": "p011", "sku": "PER-CAM-011", "title": "SnapCam 1080p Webcam",
+    "brand": "SnapCam", "category": "Peripherals",
+    "description": "1080p webcam with autofocus and a built-in privacy shutter.",
+    "price": 54.00, "currency": "USD", "stock": 40,
+    "attributes": {"resolution": "1920x1080", "fps": 30, "privacy_shutter": true},
+    "variants": [],
+    "weight_kg": 0.15, "returns": {"window_days": 30, "condition": "unused"},
+    "rating": 4.0, "reviews": 85
+  },
+  {
+    "id": "p012", "sku": "PER-DOCK-012", "title": "PowerHub 7-Port USB-C Dock",
+    "brand": "PowerHub", "category": "Peripherals",
+    "description": "USB-C docking station with HDMI, Ethernet and 100W pass-through.",
+    "price": 79.00, "currency": "USD", "stock": 22,
+    "attributes": {"ports": 7, "hdmi_4k": true, "pd_w": 100, "ethernet": "1GbE"},
+    "variants": [],
+    "weight_kg": 0.3, "returns": {"window_days": 30, "condition": "unused"},
+    "rating": 4.4, "reviews": 112
+  },
+  {
+    "id": "p013", "sku": "SH-BULB-013", "title": "Aura Smart Bulb (2-pack)",
+    "brand": "Aura", "category": "Smart Home",
+    "description": "Wi-Fi color smart bulbs, app and voice controlled.",
+    "price": 29.99, "currency": "USD", "stock": 90,
+    "attributes": {"pack": 2, "color": "RGBW", "voice": "Alexa, Google"},
+    "variants": [],
+    "weight_kg": 0.2, "returns": {"window_days": 30, "condition": "unopened"},
+    "rating": 4.2, "reviews": 204
+  },
+  {
+    "id": "p014", "sku": "SH-CAM-014", "title": "GuardCam Indoor Security Camera",
+    "brand": "GuardCam", "category": "Smart Home",
+    "description": "1080p indoor camera with night vision and motion alerts.",
+    "price": 99.00, "currency": "USD", "stock": 0,
+    "attributes": {"resolution": "1080p", "night_vision": true, "cloud": "optional"},
+    "variants": [],
+    "weight_kg": 0.4, "returns": {"window_days": 30, "condition": "unused"},
+    "rating": 4.1, "reviews": 66
+  },
+  {
+    "id": "p015", "sku": "SH-THERM-015", "title": "ThermoSmart Wi-Fi Thermostat",
+    "brand": "ThermoSmart", "category": "Smart Home",
+    "description": "Smart thermostat with scheduling and energy reports.",
+    "price": 149.00, "currency": "USD", "stock": 11,
+    "attributes": {"wifi": true, "scheduling": true, "energy_reports": true},
+    "variants": [],
+    "weight_kg": 0.5, "returns": {"window_days": 30, "condition": "unused, original packaging"},
+    "rating": 4.6, "reviews": 148
+  }
+]
